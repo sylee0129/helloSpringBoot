@@ -1,0 +1,26 @@
+2020-06-17 22:45:30.355  INFO 8824 --- [main] k.a.h.cse.HelloSpringBoot2Application    : Starting HelloSpringBoot2Application on DESKTOP-P5ASLLK with PID 8824 (E:\dev\workspaceLast\helloSpringBoot2\target\classes started by lazyp in E:\dev\workspaceLast\helloSpringBoot2)
+2020-06-17 22:45:30.362  INFO 8824 --- [main] k.a.h.cse.HelloSpringBoot2Application    : No active profile set, falling back to default profiles: default
+2020-06-17 22:45:36.417  INFO 8824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-06-17 22:45:36.435  INFO 8824 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-17 22:45:36.436  INFO 8824 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-17 22:45:36.702  INFO 8824 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-17 22:45:36.703  INFO 8824 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6234 ms
+2020-06-17 22:45:37.142  INFO 8824 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-17 22:45:38.230  WARN 8824 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-06-17 22:45:38.561  INFO 8824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-06-17 22:45:38.596  INFO 8824 --- [main] k.a.h.cse.HelloSpringBoot2Application    : Started HelloSpringBoot2Application in 9.379 seconds (JVM running for 10.191)
+2020-06-17 22:46:24.659  INFO 20400 --- [main] k.a.h.cse.HelloSpringBoot2Application    : Starting HelloSpringBoot2Application on DESKTOP-P5ASLLK with PID 20400 (E:\dev\workspaceLast\helloSpringBoot2\target\classes started by lazyp in E:\dev\workspaceLast\helloSpringBoot2)
+2020-06-17 22:46:24.664  INFO 20400 --- [main] k.a.h.cse.HelloSpringBoot2Application    : No active profile set, falling back to default profiles: default
+2020-06-17 22:46:30.091  INFO 20400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-06-17 22:46:30.113  INFO 20400 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-17 22:46:30.114  INFO 20400 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-17 22:46:30.372  INFO 20400 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-17 22:46:30.372  INFO 20400 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5613 ms
+2020-06-17 22:46:30.726  INFO 20400 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-17 22:46:30.878  INFO 20400 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-06-17 22:46:31.130  INFO 20400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-06-17 22:46:31.154  INFO 20400 --- [main] k.a.h.cse.HelloSpringBoot2Application    : Started HelloSpringBoot2Application in 7.505 seconds (JVM running for 9.09)
+2020-06-17 22:46:44.550  INFO 20400 --- [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-17 22:46:44.551  INFO 20400 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-17 22:46:44.575  INFO 20400 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 23 ms
+2020-06-17 22:46:44.658  INFO 20400 --- [http-nio-9090-exec-1] k.a.h.cse.controller.HomeController      : Info: Calling home( )

@@ -1,0 +1,15 @@
+insert into customer(name, age, active) values ("alice", 50, true)
+insert into customer(name, age, active) values ("bob", 20, false)
+insert into customer(name, age, active) values ("charlie", 30, true)
+
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("운동화","잡화","가벼움","FILA",25,45000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("그램","컴퓨터","최신형 노트북","LG전자",37,140000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("TV","가전제품","벽걸이형","삼성전자",10,332311)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("트레비","음료수","라임맛 탄산수","롯데",100,1700)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("바디로션","화장품","촉촉한 바디로션","바세린",40,20000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("스피커","가전제품","블루투스 스피커","샤오미",55,30000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("버즈플러스","이어폰","최신형 블루투스 이어폰","삼성전자",3,150000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("슬리퍼","잡화","시원한 지압 슬리퍼","다이소",40,5000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("달력","잡화","2020년 달력","다이소",100,2000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("충전기","가전제품","휴대용 충전기","샤오미",20,10000)
+
