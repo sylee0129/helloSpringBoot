@@ -11,5 +11,5 @@ insert into product_table(name,category,description,manufacturer,unit_in_stock,p
 insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("버즈플러스","이어폰","최신형 블루투스 이어폰","삼성전자",3,150000)
 insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("슬리퍼","잡화","시원한 지압 슬리퍼","다이소",40,5000)
 insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("달력","잡화","2020년 달력","다이소",100,2000)
-insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("충전기","가전제품","휴대용 충전기","샤오미",20,10000)
+insert into product_table(name,category,description,manufacturer,unit_in_stock,price) values ("충전기","잡화","휴대용 충전기","샤오미",20,10000)
 
