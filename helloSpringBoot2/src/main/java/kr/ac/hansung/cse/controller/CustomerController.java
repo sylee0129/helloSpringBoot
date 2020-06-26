@@ -22,7 +22,7 @@ import kr.ac.hansung.cse.repo.CustomerRepository;
 
 //@CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@RequestMapping("/api/v2")
+@RequestMapping("/api")
 public class CustomerController {
 
 	@Autowired
